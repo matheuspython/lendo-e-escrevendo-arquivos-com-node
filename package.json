@@ -1,0 +1,8 @@
+{
+  "name": "lendo-e-escrevendo-arquivos-com-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matheuspython/lendo-e-escrevendo-arquivos-com-node.git",
+  "author": "matheus souza <ruivorobado@gmail.com>",
+  "license": "MIT"
+}
